@@ -1,0 +1,3 @@
+[submodule "webNDS"]
+    path = webNDS
+    url = https://github.com/asrsyam/asrsyam.github.io.git
